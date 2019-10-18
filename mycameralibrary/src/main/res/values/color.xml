@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4d4e50</color>
+    <color name="colorPrimaryDark">#4d4e50</color>
+    <color name="colorAccent">#4d4e50</color>
+    <color name="orangeSolid">#f68f20</color>
+    <color name="greydark">#4d4e50</color>
+    <color name="greylight">#b1b3b6</color>
+    <color name="white">#ffff</color>
+    <!--Toasty-->
+    <color name="errorColor">#D50000</color>
+    <color name="infoColor">#3F51B5</color>
+    <color name="successColor">#388E3C</color>
+    <color name="warningColor">#FFA900</color>
+    <color name="defaultTextColor">#FFFFFF</color>
+    <color name="normalColor">#353A3E</color>
+
+
+</resources>
