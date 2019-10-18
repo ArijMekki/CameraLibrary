@@ -3,7 +3,7 @@ package com.example.mycameralibrary;
 import android.hardware.Camera;
 import android.support.annotation.NonNull;
 
-public class CameraWrapper extends  CameraFirstUseActivity {
+public class CameraWrapper extends  CameraActivity {
     public final Camera mCamera;
     public final int mCameraId;
 
